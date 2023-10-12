@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* First Section */
+
+.first {
+    background-color: #1F2937;
+    color: white;
+    padding: 0px 125px;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header h2 {
+    font-size: 24px;
+    color:#F9FAF8;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+a:link,
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.first_content {
+    margin: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+img {
+    height: 200px;
+    width: 150px;
+    flex: 1 1 1;
+}
+
+.first_text {
+    width: 400px;
+}
+.first_text h3 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+.first_text p,
+li {
+    margin: 0px;
+    font-size: 18px;
+    color: #E5E7Eb;
+}
+
+button {
+    color: white;
+    background-color: #3882F6;
+    border: 0px;
+    width: 100px;
+    height: 25px;
+    font-weight: bold;
+}
+
+/* Second Section */
+
+
+
+/* Third Section */
+
+
+
+/* Fourth Section */
+
+
+
+/* Footer */
