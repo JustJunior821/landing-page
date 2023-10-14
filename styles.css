@@ -142,6 +142,34 @@ button {
 
 /* Fourth Section */
 
+.fourth {
+    background-color: white;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+}
+
+.fourth_content {
+    background-color:#3882F6;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    width: 750px;
+    height: 100px;
+}
+
+.fourth_text h2 {
+    margin-bottom: 0px;
+}
+
+.fourth_text p {
+    margin-top: 0px;
+}
+.fourth_content button {
+    border: 1px solid white;
+}
 
 
 /* Footer */
