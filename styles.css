@@ -76,10 +76,6 @@ button {
 
 /* Second Section */
 
-.second {
-    
-}
-
 .second h1 {
     font-size: 36px;
     font-weight: bolder;
@@ -113,6 +109,35 @@ button {
 
 /* Third Section */
 
+.third {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+.third_content {
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+}
+
+.third h1 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    text-align: left;
+    margin: 0px;
+}
+
+.third p {
+    align-self: flex-end;
+    font-weight: 800;
+    font-size: 24px;
+    margin: 0px;
+}
 
 
 /* Fourth Section */
