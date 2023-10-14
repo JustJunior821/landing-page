@@ -76,6 +76,39 @@ button {
 
 /* Second Section */
 
+.second {
+    
+}
+
+.second h1 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+.second_content {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+}
+
+.image_placeholder {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #3882F6;
+}
+
+.second p {
+    text-align: center;
+}
+
 
 
 /* Third Section */
